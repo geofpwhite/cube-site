@@ -1,7 +1,0 @@
-baseURL = "https://geofpwhite.github.io/cube/"
-languageCode = "en-us"
-title = "Cube Site"
-theme = "paper"
-
-# Backed up original root hugo.toml
-# The real site config lives in cube-site/hugo.toml
