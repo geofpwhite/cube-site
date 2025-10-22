@@ -1,7 +1,7 @@
 baseURL = "https://geofpwhite.github.io/cube/"
 languageCode = 'en-us'
 title = 'Creating a cube using the ansipixels library'
-theme ='paper'
+theme ='github.com/adityatelange/hugo-PaperMod'
 [params]
 mainSections = ["home"]
 
@@ -9,4 +9,4 @@ mainSections = ["home"]
     [[module.imports]]
         path = "github.com/adityatelange/hugo-PaperMod"
         disable=false
-        theme=["hugo-PaperMod"]
+        theme="hugo-PaperMod"
