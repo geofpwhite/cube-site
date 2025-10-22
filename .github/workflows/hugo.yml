@@ -35,7 +35,7 @@ jobs:
           hugo --minify --baseURL "https://geofpwhite.github.io/cube/"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
