@@ -4,3 +4,9 @@ title = 'Creating a cube using the ansipixels library'
 theme ='paper'
 [params]
 mainSections = ["home"]
+
+[module]
+    [[module.imports]]
+        path = "github.com/adityatelange/hugo-PaperMod"
+        disable=false
+        theme=["hugo-PaperMod]
