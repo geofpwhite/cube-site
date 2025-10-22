@@ -1,0 +1,6 @@
+baseURL = "https://geofpwhite.github.io/cube/"
+languageCode = 'en-us'
+title = 'Creating a cube using the ansipixels library'
+theme ='paper'
+[params]
+mainSections = ["home"]

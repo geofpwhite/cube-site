@@ -1,0 +1,6 @@
+baseURL = "https://geofpwhite.github.io/cube/"
+languageCode = "en-us"
+title = "Cube Site"
+theme = "paper"
+
+# Other Hugo configuration options can be added here as needed

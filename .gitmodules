@@ -1,0 +1,6 @@
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "cube-site-src/themes/paper"]
+	path = cube-site-src/themes/paper
+	url = https://github.com/adityatelange/hugo-PaperMod
