@@ -9,4 +9,4 @@ mainSections = ["home"]
     [[module.imports]]
         path = "github.com/adityatelange/hugo-PaperMod"
         disable=false
-        theme="hugo-PaperMod"
+        theme=["hugo-PaperMod"]
